@@ -1,12 +1,10 @@
 # bspwm
 
-> Entorno bspwm inspirado en el tema Camile de [AlvinPix](https://github.com/AlvinPix/bspwm)
-
 ## Instalación
 
 1. Actualizar el SO
 
-Para Kali Lnux
+Para Kali Linux
 
 ```shell
 sudo apt update
@@ -35,7 +33,7 @@ chmod +x bspwm.sh
 ./bspwm.sh
 ```
 
-Nota: Es necesario reiniciar el sistemas, al finalizar el script
+Nota: Es necesario reiniciar el sistema al finalizar el script
 
 En la pantalla de login seleccionar `bspwm`.
 
@@ -95,3 +93,7 @@ Nota: cada vez que reinicies el equipo el fondo de pantalla cambiará de manera 
 - <kbd>F2</kbd>: Paste from buffer A.
 - <kbd>F3</kbd>: Copy to buffer B.
 - <kbd>F4</kbd>: Paste from buffer B.
+
+## Creditos
+
+Entorno bspwm inspirado en el tema Camile de [AlvinPix](https://github.com/AlvinPix/bspwm)
