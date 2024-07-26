@@ -2,20 +2,11 @@
 
 ## Instalación
 
-1. Actualizar el SO
-
-Para Kali Linux
+1. Actualizar Kali Linux
 
 ```shell
 sudo apt update
 sudo apt upgrade -y
-```
-
-Para Parrot
-
-```shell
-sudo apt update
-sudo parrot-upgrade
 ```
 
 2. Clonar y ejecutar el repositorio
